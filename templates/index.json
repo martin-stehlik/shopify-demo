@@ -210,7 +210,7 @@
       "type": "apps",
       "blocks": {
         "c8870164-1183-4973-be6d-1f54041b8a34": {
-          "type": "shopify:\/\/apps\/store-faq-page-customer-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
+          "type": "shopify:\/\/apps\/helplab-faq-page-product-faqs\/blocks\/app-block\/89f30064-d200-4f10-b92c-a16fc4c5815c",
           "settings": {
             "heading": "Frequently Asked",
             "heading_text_type": "h1",
