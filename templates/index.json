@@ -10,13 +10,6 @@
             "heading_size": "h0"
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Anglicky",
-            "text_style": "caption-with-letter-spacing"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -27,12 +20,19 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Anglicky",
+            "text_style": "caption-with-letter-spacing"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "button",
+        "text"
       ],
       "settings": {
         "image_overlay_opacity": 40,
