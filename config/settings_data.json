@@ -120,8 +120,8 @@
         "type": "header",
         "settings": {
           "color_scheme": "accent-2",
-          "logo_width": 90,
-          "logo_position": "middle-left",
+          "logo_width": 250,
+          "logo_position": "top-center",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
